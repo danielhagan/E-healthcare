@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">268170414970-r1tsc6nov4ogt3i8l6b8d09v9n1psaug.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">268170414970</string>
+    <string name="google_api_key" translatable="false">AIzaSyA0x3LN0UazUglPP__t-fEXYnwwiGyNAS8</string>
+    <string name="google_app_id" translatable="false">1:268170414970:android:00875465ce3334b1ae64c3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA0x3LN0UazUglPP__t-fEXYnwwiGyNAS8</string>
+    <string name="google_storage_bucket" translatable="false">e-health-care-80cbd.appspot.com</string>
+    <string name="project_id" translatable="false">e-health-care-80cbd</string>
+</resources>

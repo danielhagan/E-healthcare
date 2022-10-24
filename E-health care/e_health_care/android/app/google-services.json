@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "268170414970",
+    "project_id": "e-health-care-80cbd",
+    "storage_bucket": "e-health-care-80cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268170414970:android:00875465ce3334b1ae64c3",
+        "android_client_info": {
+          "package_name": "com.e_health_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268170414970-4evfsq4attj04m24dcepad4h44241401.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.e_health_care",
+            "certificate_hash": "4f1db09b348e595fe18844d8d9f4ed850cfdf84d"
+          }
+        },
+        {
+          "client_id": "268170414970-r1tsc6nov4ogt3i8l6b8d09v9n1psaug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0x3LN0UazUglPP__t-fEXYnwwiGyNAS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268170414970-r1tsc6nov4ogt3i8l6b8d09v9n1psaug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
